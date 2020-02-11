@@ -7,4 +7,5 @@
 3. sfoucek
 4. bsalon
 5. dsedlak
-6. mhesko
+6. nurzhan
+7. mhesko
