@@ -9,3 +9,4 @@
 5. dsedlak
 6. nurzhan
 7. mhesko
+8. coronavirus
